@@ -7,6 +7,10 @@
 
     $ component install yields/scrolltop
 
+or
+
+    $ npm install scrolltop
+
 ## API
 
 ### scrolltop()
